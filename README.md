@@ -8,3 +8,8 @@ Befoure installation you need to install [Rust](https://rustup.rs/)!
 
 > for example [kitty](https://sw.kovidgoyal.net/kitty/) is a good option on [Linux](https://www.kernel.org/)!
 ## Installation
+```
+git clone https://github.com/akettunen/foxplayer-rs
+cd foxplayer-rs
+cargo run --release
+```
