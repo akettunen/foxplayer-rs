@@ -1,5 +1,7 @@
 # foxplayer-rs
 Insanely fast music player right in the terminal written in [Rust](https://rust-lang.org/)
+### Picture
+<img width="3084" height="1953" alt="image" src="https://github.com/user-attachments/assets/c58889c8-4a15-46d6-9ac9-9890e3785989" />
 
 ## Requirments
 Befoure installation you need to install [Rust](https://rustup.rs/)!
