@@ -219,3 +219,5 @@ fn main() -> std::io::Result<()> {
 
     Ok(())
 }
+
+// this project is kinda vibecoded ill try to add more human generated code later
