@@ -27,4 +27,4 @@ cargo run --release
 ```
 
 ## COPYRIGHT (C) akettunen
-## [Licence](https://github.com/akettunen/foxplayer-rs/blob/main/LICENSE)
+### [Licence](https://github.com/akettunen/foxplayer-rs/blob/main/LICENSE)
