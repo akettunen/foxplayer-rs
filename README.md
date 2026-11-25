@@ -25,3 +25,6 @@ git clone https://github.com/akettunen/foxplayer-rs
 cd foxplayer-rs
 cargo run --release
 ```
+
+## COPYRIGHT (C) akettunen
+## [Licence](https://github.com/akettunen/foxplayer-rs/blob/main/LICENSE)
